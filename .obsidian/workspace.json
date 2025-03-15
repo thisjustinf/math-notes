@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -180,8 +184,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "06d55deba83ec5c4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "sta"
+    "README.md",
+    "calculus-3/Calculus_Volume_3_-_WEB.pdf",
+    "calculus-3/Calculus_Volume_3_-_WEB.pdf.crdownload",
+    "calculus-2/Calculus_Volume_2_-_WEB.pdf",
+    "calculus-2/Calculus_Volume_2_-_WEB.pdf.crdownload",
+    "calculus-1/Calculus_Volume_1_-_WEB_68M1Z5W.pdf",
+    "calculus-1/Calculus_Volume_1_-_WEB_68M1Z5W.pdf.crdownload",
+    "precalculus",
+    "calculus-3",
+    "calculus-2",
+    "calculus-1"
   ]
 }
